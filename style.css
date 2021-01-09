@@ -1,0 +1,21 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+#content{
+    width: 150px;
+    padding: 10px 0px 10px 0px;
+}
+
+#titulo{
+    font-size: 25px;
+    font-weight: 600;
+    color: #457B9D;
+    text-align: center;
+    margin-bottom: 5px;
+}
+
+#btn{
+    margin-left: 33px;
+}
