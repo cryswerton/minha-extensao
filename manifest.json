@@ -1,0 +1,9 @@
+{
+    "name":"Minha primeira extensão",
+    "version":"1.0",
+    "description":"mostra uma mensagem dizendo Minha primeira descrição",
+    "browser-action":{
+        "default_popup":"index.html"
+    },
+    "manifest_version":2
+}
