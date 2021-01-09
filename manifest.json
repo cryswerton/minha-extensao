@@ -1,4 +1,5 @@
 {
+    "manifest_version":2,
     "name":"Minha primeira extensão",
     "version":"1.0.0",
     "icons": {"128": "icon-128x128.png"},
@@ -7,5 +8,5 @@
         "default_icon":"icon.png",
         "default_popup":"index.html"
     },
-    "manifest_version":2
+    "permissions": ["activeTab"]
 }
