@@ -5,7 +5,7 @@ body{
 
 #content{
     width: 150px;
-    padding: 10px 0px 10px 0px;
+    padding: 10px 20px;
 }
 
 #titulo{
@@ -17,5 +17,14 @@ body{
 }
 
 #btn{
+    margin-top: 10px;
     margin-left: 33px;
+    background-color: #1b5579;
+    color: white;
+    border: 1px solid #0a2f46;
+    border-radius: 3px;
+    outline: inherit;
+}
+#btn:hover{
+    background-color: #457B9D;
 }
